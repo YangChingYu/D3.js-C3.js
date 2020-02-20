@@ -1,0 +1,9 @@
+.chart div {
+    display: inline-block;
+    background: blue;
+    width: 50px;
+    margin-right: 5px;
+    vertical-align: bottom;
+    color: #fff;
+    text-align: center;
+  }
